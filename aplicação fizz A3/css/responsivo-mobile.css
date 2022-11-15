@@ -1,0 +1,196 @@
+@media  (min-width: 380px) and (max-width: 950px) {
+
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    header img{
+        height: 
+        75%;
+    }
+
+    header .btn-login{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50%;
+        font-size: 30%;
+    }
+
+    header ul{
+        display: none;
+    }
+
+    .intro{
+        height: 80%;
+    }
+
+    .intro p{
+        font-size: 25%;
+        letter-spacing: 0.5px;
+        margin-top: 40%;
+    }
+
+    .intro h1{
+        font-size: 1.2em;
+        margin-top: 20%;
+    }
+
+    .fundo-ass-ja{
+        margin-top: 15%;
+        width: 70%;
+        font-size: 75%;
+    }
+
+    .q-somos{
+        background-position: right;
+    }
+
+    .q-somos div{
+        width: 100%;
+        font-size: 45%;
+        letter-spacing: 0.2px;
+    }
+
+    .filiais h1{
+        text-align: center;
+        font-size: 80%;
+    }
+
+    .filiais img{
+        height: 12em;
+    }
+
+
+}
+
+@media  (max-width: 380px) {
+
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    header .btn-login{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 45%;
+        height: 50%;
+        font-size: 30%;
+    }
+
+    header ul{
+        display: none;
+    }
+
+    .intro{
+        height: 60%;
+    }
+
+    .intro p{
+        font-size: 25%;
+        letter-spacing: 0.5px;
+    }
+
+    .intro h1{
+        font-size: 1.2em;
+        margin-top: 20%;
+    }
+
+    .fundo-ass-ja{
+        margin-top: 15%;
+        width: 70%;
+        font-size: 75%;
+    }
+
+    .q-somos{
+        background-position: right;
+    }
+
+    .q-somos div{
+        width: 100%;
+        font-size: 45%;
+        letter-spacing: 0.2px;
+    }
+
+    .filiais h1{
+        text-align: center;
+        font-size: 80%;
+    }
+
+    .filiais img{
+        height: 12em;
+    }
+}
+
+@media (min-height: 325px) and (max-height: 420px){
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        height: 20%;
+    }
+
+    header .btn-login{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 28%;
+        height: 65%;
+        font-size: 30%;
+    }
+
+    header img{
+        height: 100%;
+    }
+
+    header ul{
+        display: none;
+    }
+
+    .intro{
+        height: 100%;
+    }
+
+    .intro p{
+        font-size: 40%;
+        letter-spacing: 0.5px;
+        margin-top: 10%;
+    }
+
+    .intro h1{
+        font-size: 1.2em;
+        margin-top: 3%;
+    }
+
+    .fundo-ass-ja{
+        margin-top: 5%;
+        width: 30%;
+        height: 15%;
+        font-size: 90%;
+    }
+
+    .q-somos{
+        background-position: right;
+    }
+
+    .q-somos div{
+        width: 100%;
+        font-size: 45%;
+        letter-spacing: 0.2px;
+    }
+
+    .filiais h1{
+        text-align: center;
+        font-size: 80%;
+    }
+
+    .filiais img{
+        height: 12em;
+    }
+}
