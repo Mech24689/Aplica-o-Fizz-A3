@@ -194,3 +194,19 @@
         height: 12em;
     }
 }
+
+@media (min-width: 1910px){
+    .gow{
+        display: none;
+    }
+}
+
+@media (min-width: 1640px){
+    .gow{
+        display: none;
+    }
+
+    .lol{
+        display: none;
+    }
+}
