@@ -242,6 +242,10 @@ header ul li:hover{
     margin-top: 20px;
 }
 
+.jogo a{
+    color: black;
+}
+
 .area-jogos h2{
     font-size: 60%;
     margin-top: 40px;
